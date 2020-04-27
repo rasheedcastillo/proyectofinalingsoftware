@@ -1,6 +1,7 @@
-Proyecto Final
+Proyecto Final Ingeniería de Software
+2IL141
 
 Estudiantes:
-Rasheed Castillo
-David Cruzpagan
-Deyanira Torres
+Rasheed Castillo, 4-801-2200
+David Cruzpagan, 4-861-953
+Deyanira Torres, 4-803-1735
